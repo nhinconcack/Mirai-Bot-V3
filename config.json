@@ -16,9 +16,9 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
+    "EMAIL": "lan818270@gmail.com",
+    "PASSWORD": "CWMWOEUgv",
+    "OTPKEY": "GUDWCBLKFXB7CMYAEQTPETKL4SZMVPOO",
     "FACEBOOK_ADMIN": "",
     "BOTNAME": "Mirai-V3-Unofficial",
     "PREFIX": ".",
@@ -27,7 +27,7 @@
               "100083620530593"
     ],
     "NDH": [
-        "502275138"
+        "100083620530593"
     ],
     "version": "3.0.0",
     "menu": {
